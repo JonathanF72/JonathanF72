@@ -1,6 +1,6 @@
-# Olá, eu sou o Jonathan! 👋
+# Olá, eu sou o Jonathan! 
 
-### 📚 Sobre mim
+###  Sobre mim
 -  **Curso:** Desenvolvimento de Sistemas
 -  **O que mais gostei no curso:** programar
 -  **Hobby:** Estudar
